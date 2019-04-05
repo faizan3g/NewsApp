@@ -4,10 +4,10 @@ This app uses https://newsapi.org/ to fetch news data as NY Time website was not
 
 Following pods are used in the app:
 
-pod Alamofire', '~> 4.5'
-pod 'AlamofireSwiftyJSON'
-pod 'SVProgressHUD', :git => 'https://github.com/SVProgressHUD/SVProgressHUD.git'
-pod 'SDWebImage', '~> 4.0'
+ Alamofire', '~> 4.5'\n
+ 'AlamofireSwiftyJSON'
+ 'SVProgressHUD', :git => 'https://github.com/SVProgressHUD/SVProgressHUD.git'
+ 'SDWebImage', '~> 4.0'
 
 API url is stored in constant.swift file
 
