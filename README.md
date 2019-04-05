@@ -15,6 +15,9 @@ Following pods are used in the app:
 API url is stored in constant.swift file
 
 How to run the project:
+
 Intall Xcode and open MyApp.xcworkspace and run it on simulator.
 
-If any error comes then open terminal and execute below command : pod install
+If any error comes then open terminal and execute below command :
+
+pod install
